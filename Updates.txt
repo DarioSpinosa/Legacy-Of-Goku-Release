@@ -1,1 +1,1 @@
-{"East District 439": "2"}
+{"Settings":{"zoom_camera":8,"ux":false}}
