@@ -1,0 +1,5 @@
+do NOT extract any single files, they need each others to work correctly.
+If you extract one of them the launcher or the game won't start, but if you've done it, just
+put again the files in the same folder
+
+It's normal the "Start download" button remains pressed until the end.
