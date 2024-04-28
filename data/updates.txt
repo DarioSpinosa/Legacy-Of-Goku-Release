@@ -1,7 +1,7 @@
 {
   "1": {
     "Kami's Lookout": {
-      "Karin's Tower": {
+      "Korin's Tower": {
         "Actual Event": 0,
         "Event Occurring": false,
         "Items": {},
