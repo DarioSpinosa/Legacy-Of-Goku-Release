@@ -1,16 +1,13 @@
-# Changelog
 ## 2.0.2 (2024-05-03)
 
 **Fixs:**
 - Labels of Computer data were displayed with a wrong font
 
-# Changelog
 ## 2.0.1 (2024-05-03)
 
 **Fixs:**
 - Deleted wrong cached paths that prevent the game to start
 
-# Changelog
 ## 2.0.0 (2024-05-03)
 
 **Breaking Changes:**
