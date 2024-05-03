@@ -20,4 +20,4 @@
 - Add command keys to interface
 
 **Fixs:**
-- Final Flash loop sound
+- Final Flash sound effect doesn't loop anymore
