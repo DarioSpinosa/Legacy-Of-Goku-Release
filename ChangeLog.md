@@ -1,14 +1,14 @@
-## 2.0.2 (2024-05-03)
+## 2.0.2-alpha (2024-05-03)
 
 **Fixs:**
 - Labels of Computer data were displayed with a wrong font
 
-## 2.0.1 (2024-05-03)
+## 2.0.1-alpha (2024-05-03)
 
 **Fixs:**
 - Deleted wrong cached paths that prevent the game to start
 
-## 2.0.0 (2024-05-03)
+## 2.0.0-alpha (2024-05-03)
 
 **Breaking Changes:**
 - Changed how updates and version number are handled
