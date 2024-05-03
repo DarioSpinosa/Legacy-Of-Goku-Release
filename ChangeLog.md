@@ -1,11 +1,11 @@
 ## 2.0.2-alpha (2024-05-03)
 
-**Fixs:**
+**Fixes:**
 - Labels of Computer data were displayed with a wrong font
 
 ## 2.0.1-alpha (2024-05-03)
 
-**Fixs:**
+**Fixes:**
 - Deleted wrong cached paths that prevent the game to start
 
 ## 2.0.0-alpha (2024-05-03)
@@ -19,5 +19,5 @@
 - Mechanics: Defense pose + Shield
 - Add command keys to interface
 
-**Fixes:**
+**Fixs:**
 - Final Flash loop sound
