@@ -1,3 +1,8 @@
+## alpha-2.0.4 (2024-05-04)
+
+**Fixes:**
+- changelog file wasn't updated 
+
 ## alpha-2.0.3 (2024-05-04)
 
 **Fixes:**
