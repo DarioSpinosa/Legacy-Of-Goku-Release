@@ -1,14 +1,20 @@
-## 2.0.2-alpha (2024-05-03)
+## alpha-2.0.3 (2024-05-04)
+
+**Fixes:**
+- Update manager error that prevent the game to start
+
+
+## alpha-2.0.2 (2024-05-03)
 
 **Fixes:**
 - Labels of Computer data were displayed with a wrong font
 
-## 2.0.1-alpha (2024-05-03)
+## alpha-2.0.1 (2024-05-03)
 
 **Fixes:**
 - Deleted wrong cached paths that prevent the game to start
 
-## 2.0.0-alpha (2024-05-03)
+## alpha-2.0.0-alpha (2024-05-03)
 
 **Breaking Changes:**
 - Changed how updates and version number are handled
