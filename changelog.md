@@ -1,3 +1,10 @@
+## alpha-2.0.5 (2024-05-05)
+
+**Fixes:**
+- Goku and Vegeta Flying sprites saturation
+- Final flash diagonal position when casted
+- Kami has a new better icon
+
 ## alpha-2.0.4 (2024-05-04)
 
 **Fixes:**
