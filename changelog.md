@@ -1,4 +1,4 @@
-## alpha-2.0.6 (2024-05-05)
+## alpha-2.0.6 (2024-05-06)
 
 **Features**
 - Maps: Baba's Palace
