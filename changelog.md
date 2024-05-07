@@ -1,6 +1,6 @@
 ## alpha-2.0.6 (2024-05-06)
 
-**Features**
+**Features:**
 - Maps: Baba's Palace
 - Npcs: Baba
 
